@@ -9,3 +9,7 @@ Hasil deploy seperti gambar berikut , ini adalah hasil akun vercel yang telah di
 <br>
 
 ## SOAL 2
+
+Database postgres telah berhasil dibuat dan terkoneksi dengan project ini
+![Screenshoot](images/image2.png)
+<br>
