@@ -21,3 +21,9 @@ Pada pertama run maka hasilnya terjadi error dikarenakan terdapat modul yang bel
 Setelah menginstall module maka hasil akan seperti berikut
 ![Screenshoot](images/image4.png)
 <br>
+
+## SOAL 4
+
+Hasil run dari query adalah sebagai berikut, disini kita mencari nama customer nama dan tagihan berdasarkan customer id
+![Screenshoot](images/image5.png)
+<br>
