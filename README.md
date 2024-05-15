@@ -13,3 +13,11 @@ Hasil deploy seperti gambar berikut , ini adalah hasil akun vercel yang telah di
 Database postgres telah berhasil dibuat dan terkoneksi dengan project ini
 ![Screenshoot](images/image2.png)
 <br>
+
+## SOAL 3
+
+Pada pertama run maka hasilnya terjadi error dikarenakan terdapat modul yang belum di install
+![Screenshoot](images/image3.png)
+Setelah menginstall module maka hasil akan seperti berikut
+![Screenshoot](images/image4.png)
+<br>
